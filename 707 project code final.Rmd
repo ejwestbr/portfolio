@@ -1,6 +1,6 @@
 ---
-title: "IST 707 Group Project: Wine Quality Prediction"
-author: Omar Hanif,  Elizabeth Westbrook
+title: "Wine Quality Prediction"
+Elizabeth Westbrook
 output: word_document
 ---
 
